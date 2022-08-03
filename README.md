@@ -1,6 +1,7 @@
 # Movie-Recommendation-WebApp
 A content based movie recommender web app using cosine similarity. To see the web app: https://movierecommender-1.herokuapp.com/
 
+Dataset Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
 Similarity Score :
 How does it decide which item is most similar to the item user likes? Here come the similarity scores.
